@@ -1,0 +1,6 @@
+# Project exclude paths
+/api_utility/target/
+/dataprovider/target/
+/driverfactory/target/
+/reporter/target/
+/TestExecutor/target/
